@@ -20,6 +20,9 @@ python3 conv.py
  Then follow the on-screen instructions, and voila you'll have your tokyo-night themed image ready in no time!
 
 
+## Note
+The output image usually doesn't looks good only when the input image is complex or has a lot of colors. It works best with simple minimal images with a few colors like the image shown above. Keep this in mind
+
  ## Credits
 - [Tokyo Night colorscheme by enkia](https://github.com/enkia/tokyo-night-vscode-theme)
 - **Made** with [Schrodinger-Hat's ImageGoNord](https://github.com/Schrodinger-Hat), but with the tokyo-night palette
