@@ -21,7 +21,7 @@ python3 conv.py
 
 
 ## Note
-The output image usually doesn't looks good only when the input image is complex or has a lot of colors. It works best with simple minimal images with a few colors like the image shown above. Keep this in mind
+The output image usually doesn't look good when the input image is complex or has a lot of colors. It works best with simple minimal images with a few colors like the image shown above. Keep this in mind
 
  ## Credits
 - [Tokyo Night colorscheme by enkia](https://github.com/enkia/tokyo-night-vscode-theme)
